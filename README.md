@@ -1,6 +1,8 @@
 # AngularJS Registration & Login
 
 - 🍵 AngularJS Authentication Service 🌿
+- 🌹 AngularJS User Service 🐛
+- 🍱 AngularJS Fake User Service (Local Storage) 🍰
 
 ## Links
 
