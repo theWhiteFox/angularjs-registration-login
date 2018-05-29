@@ -1,0 +1,11 @@
+body {
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+}
+
+.registration-login {
+    margin-top: 10em;
+    padding: 3em;
+    border: 1px dashed lightblue;
+    border-radius: 1em;
+    background-color:ghostwhite;
+}
