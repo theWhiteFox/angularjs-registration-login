@@ -4,6 +4,7 @@
 - 🌹 AngularJS User Service 🐛
 - 🍱 AngularJS Fake User Service (Local Storage) 🍰
 - 🗾 AngularJS Login Controller 🎆
+- 🍐 AngularJS Register Controller 🍋
 
 ## Links
 
